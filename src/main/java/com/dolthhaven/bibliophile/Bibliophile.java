@@ -30,8 +30,7 @@ import net.minecraftforge.registries.RegistryObject;
 import org.slf4j.Logger;
 
 @Mod(Bibliophile.MOD_ID)
-public class Bibliophile
-{
+public class Bibliophile {
     public static final String MOD_ID = "bibliophile";
     private static final Logger LOGGER = LogUtils.getLogger();
 
