@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[32,)"
-issueTrackerURL = "https://github.com/team-abnormals/caverns_and_chasms/issues"
-license = "https://github.com/team-abnormals/caverns_and_chasms/blob/main/LICENSE.txt"
+issueTrackerURL = "https://github.com/thelegitdolt/bibliophile/issues"
+license = "https://github.com/thelegitdolt/bibliophile/blob/main/LICENSE"
 
 [[mods]]
 modId = "bibliophile"
@@ -12,10 +12,10 @@ configBackground = "minecraft:textures/block/obsidian.png"
 authors = "Dolt and Bagels"
 credits = "Dolt and Bagels"
 displayURL = "https://www.youtube.com/mods/caverns-and-chasms"
-displayName = "Caverns & Chasms"
+displayName = "Bibliophile"
 description = '''
-    Expands caves, mining, and more with tons of new content!
-    '''
+   MAKES ENCHANTING GOOD.
+'''
 
 [[dependencies.bibliophile]]
     modId = "minecraft"
